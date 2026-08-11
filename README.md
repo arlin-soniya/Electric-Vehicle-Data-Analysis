@@ -63,7 +63,7 @@ The Tableau dashboard provides analysis of:
 
 ## 🖼️ Dashboard Preview
 
-![Electric Vehicle Data Analysis Dashboard](dashboard.png)
+![Electric Vehicle Data Analysis Dashboard](Dashboard.png)
 
 ## 📁 Project Files
 
